@@ -1,0 +1,182 @@
+{
+	"mocreatures:bird": {
+		"health": 6,
+		"speed": 0.5,
+		"abilities": [
+			"fly"
+		]
+	},
+	"betteranimalsplus:songbird": {
+		"health": 16,
+		"speed": 0.15,
+		"abilities": [
+			"fly"
+		]
+	},
+	"mocreatures:ent": {
+		"health": 30,
+		"hostile": true
+	},
+	"mocreatures:greenogre": {
+		"health": 30,
+		"attack": [
+			"knockback"
+		]
+	},
+	"mocreatures:fireogre": {
+		"health": 30,
+		"action": "small_fireball"
+	},
+	"mocreatures:caveogre": {
+		"health": 40,
+		"abilities": [
+			"night_vision",
+			"sun_allergy"
+		]
+	},
+	"mocreatures:manticore": {
+		"health": 20,
+		"abilities": [
+			"fly"
+		],
+		"attack": [
+			"poison"
+		]
+	},
+	"mocreatures:scorpion": {
+		"health": 20,
+		"attack": [
+			"poison"
+		]
+	},
+	"mocreatures:dolphin": {
+		"health": 15,
+		"speed": 0.5,
+		"abilities": [
+			"swim",
+			"water_breath"
+		],
+		"action": "jump"
+	},
+	"mocreatures:bunny": {
+		"health": 4,
+		"speed": 0.25,
+		"abilities": [
+			"jumping",
+			"prevent_fall"
+		],
+		"action": "jump"
+	},
+	"mocreatures:komododragon": {
+		"health": 20,
+		"attack": [
+			"poison"
+		]
+	},
+	"mocreatures:anchovy": {
+		"health": 6,
+		"speed": 1,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:angelfish": {
+		"health": 6,
+		"speed": 1,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:angler": {
+		"health": 6,
+		"speed": 1,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:clownfish": {
+		"health": 6,
+		"speed": 1,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:goldfish": {
+		"health": 6,
+		"speed": 1,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:hippotang": {
+		"health": 6,
+		"speed": 1,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:manderin": {
+		"health": 6,
+		"speed": 1,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:piranha": {
+		"health": 6,
+		"speed": 1,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:shark": {
+		"health": 20,
+		"speed": 0.5,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:cod": {
+		"health": 14,
+		"speed": 0.20,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:salmon": {
+		"health": 14,
+		"speed": 0.20,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:bass": {
+		"health": 14,
+		"speed": 0.20,
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	},
+	"mocreatures:jellyfish": {
+		"health": 14,
+		"attack": [
+			"poison"
+		],
+		"abilities": [
+			"swim",
+			"water_breath"
+		]
+	}
+}
